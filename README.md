@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Front End of Finn AI Coding Challenge App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web app is created for evaluating Frank Lin's front end coding ability.
+
+## Instructions
+
+Run `npm install` to install this app first.
+
+You can complete the form then click the Create button to create a user. On creating, a new activity will be returned for the preference of the created user.
 
 ## Available Scripts
 
